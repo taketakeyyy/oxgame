@@ -1,6 +1,6 @@
 # oxgame
 
-oxmage is tic tac toe. it is powered minimax method.
+oxmage is tic tac toe. it is powered by minimax method.
 
 # Usage
 
